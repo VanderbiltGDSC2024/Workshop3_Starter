@@ -1,4 +1,5 @@
 # Vandy GDSC Workshop 3
+## 9/26/24
 
 ## Who is teaching?
 * John Lee (Tech Lead)
